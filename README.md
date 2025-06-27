@@ -170,7 +170,7 @@ AY 2024-2025
 
 ## 📚 References
 
-For detailed research background and citations, please refer to our [project report]([Project Report.pdf](https://github.com/sakhi20/AI-Powered-Suspicious-Activity-Detection-System-Using-Computer-Vision/blob/446183aa47b7a8d14c7b8714b871de635af87b5d/Project%20Report.pdf)).
+For detailed research background and citations, please refer to our [Project Report](https://github.com/sakhi20/AI-Powered-Suspicious-Activity-Detection-System-Using-Computer-Vision/blob/446183aa47b7a8d14c7b8714b871de635af87b5d/Project%20Report.pdf).
 
 ---
 
