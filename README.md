@@ -170,7 +170,7 @@ AY 2024-2025
 
 ## 📚 References
 
-For detailed research background and citations, please refer to our [project report](docs/project_report.pdf).
+For detailed research background and citations, please refer to our [project report](Project Report.pdf).
 
 ---
 
